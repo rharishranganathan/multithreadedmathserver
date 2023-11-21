@@ -2,7 +2,7 @@
 
 ### To Run the code
 
-First install 'bc' tool in your PC
+First install `bc` tool in your PC
 
 
 ```
