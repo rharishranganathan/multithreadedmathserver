@@ -12,5 +12,5 @@ $ sudo apt-get install bc
 Then run using python 3
 
 ```
-$ python math_server.py
+$ python math-server.py
 ```
